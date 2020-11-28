@@ -1,6 +1,11 @@
 {
 	"folder_history":
 	[
+		"/E/c programin/DimikOJ",
+		"/E/c programin/CSE_Assignment_BSMRSTU/Contest_3",
+		"/E/c programin/HackerRank(ibrahim_065)",
+		"/E/c programin/Toph (ibrahim_065)",
+		"/E/c programin/Codeforces (ibrahim_065)",
 		"/D/Downloads/Compressed/19CSE003/19CSE003",
 		"/E/c programin/CSE_Assignment_BSMRSTU/LAB-05",
 		"/E/c programin/CSE_Assignment_BSMRSTU/LAB-04",
@@ -11,13 +16,12 @@
 		"/F/c programin/HackerRank(ibrahim_065)",
 		"/F/c programin/Online_CSE_Assignment_1",
 		"/F/c programin/Toph (ibrahim_065)",
-		"/E/c programin/Toph (ibrahim_065)",
 		"/D/3D Objects",
 		"/E/c programin/new",
 		"/E/c programin"
 	],
 	"last_version": 3176,
-	"last_window_id": 67,
+	"last_window_id": 73,
 	"log_indexing": false,
 	"settings":
 	{
@@ -29,16 +33,20 @@
 				"selected_items":
 				[
 					[
+						"re",
+						"rev_num"
+					],
+					[
+						"in",
+						"in\tCpp_program"
+					],
+					[
 						"vo",
 						"vowel_cnt"
 					],
 					[
 						"for",
 						"for\tFor Loop"
-					],
-					[
-						"in",
-						"in\tC_program"
 					],
 					[
 						"main",
@@ -401,6 +409,22 @@
 						[
 							"Packages/C++/C++ Single File.sublime-build",
 							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
 						],
 						[
 							"Packages/User/Google Chrome.sublime-build",
@@ -453,20 +477,32 @@
 				"selected_items":
 				[
 					[
-						"setting",
-						"Preferences: Settings"
+						"remove",
+						"Package Control: Remove Package"
 					],
 					[
 						"install",
 						"Package Control: Install Package"
 					],
 					[
+						"termin",
+						"Terminal: Open"
+					],
+					[
+						"intall",
+						"Package Control: Install Package"
+					],
+					[
 						"theme",
+						"UI: Select Color Scheme"
+					],
+					[
+						"scheme",
 						"UI: Select Theme"
 					],
 					[
-						"remove",
-						"Package Control: Remove Package"
+						"setting",
+						"Preferences: Settings"
 					],
 					[
 						"insta",
@@ -537,11 +573,47 @@
 			},
 			"file_history":
 			[
+				"/E/c programin/test.c",
+				"/E/c programin/HackerRank(ibrahim_065)/Variable_Sized_Arrays.cpp",
+				"/E/c programin/DimikOJ/Problem_16.c",
+				"/E/c programin/DimikOJ/Problem_19.c",
+				"/E/c programin/DimikOJ/Problem_21.c",
+				"/E/c programin/DimikOJ/test.c",
+				"/E/c programin/DimikOJ/Problem_23.c",
+				"/E/c programin/DimikOJ/Problem_24.c",
+				"/G/Seen Movie link/watched movie list.txt",
+				"/E/c programin/DimikOJ/vajog.cpp",
+				"/E/c programin/DimikOJ/Problem_18.c",
+				"/E/c programin/DimikOJ/Problem_17.c",
+				"/E/c programin/DimikOJ/Problem_15.c",
+				"/E/c programin/DimikOJ/Problem_14.c",
+				"/E/c programin/DimikOJ/Problem_12.c",
+				"/E/c programin/DimikOJ/Problem_11.c",
+				"/E/c programin/DimikOJ/Problem_10.c",
+				"/E/c programin/DimikOJ/Problem_9.c",
+				"/E/c programin/DimikOJ/Problem_8.c",
+				"/E/c programin/DimikOJ/Problem_7.c",
+				"/E/c programin/DimikOJ/Problem_6.c",
+				"/E/c programin/DimikOJ/Problem_3.c",
+				"/E/c programin/DimikOJ/Problem_13.cpp",
+				"/G/private softeware/seen movie list.txt",
+				"/G/Portable Sublime Text 3/Data/Packages/User/C_program.sublime-snippet",
+				"/E/c programin/Codeforces (ibrahim_065)/Boboniu_Plays_Chess_1395B.cpp",
 				"/E/c programin/CSE_Assignment_BSMRSTU/LAB-05/P_1.c",
 				"/E/c programin/CSE_Assignment_BSMRSTU/LAB-05/P_2.c",
 				"/E/c programin/CSE_Assignment_BSMRSTU/LAB-05/P_3.c",
 				"/E/c programin/CSE_Assignment_BSMRSTU/LAB-05/P_4.c",
 				"/E/c programin/CSE_Assignment_BSMRSTU/LAB-05/P_5.c",
+				"/D/Downloads/Compressed/19CSE003/19CSE003/test.c",
+				"/D/Downloads/Compressed/19CSE003/19CSE003/1.c/Strcat.c",
+				"/D/Downloads/Compressed/19CSE003/19CSE003/1.c/Strcmp.c",
+				"/D/Downloads/Compressed/19CSE003/19CSE003/1.c/Strcpy.c",
+				"/D/Downloads/Compressed/19CSE003/19CSE003/1.c/Strlen.c",
+				"/D/Downloads/Compressed/19CSE003/19CSE003/1.c/Strrev.c",
+				"/D/Downloads/Compressed/19CSE003/19CSE003/2.c",
+				"/D/Downloads/Compressed/19CSE003/19CSE003/3.c",
+				"/D/Downloads/Compressed/19CSE003/19CSE003/4.c",
+				"/D/Downloads/Compressed/19CSE003/19CSE003/5.c",
 				"/E/c programin/CSE_Assignment_BSMRSTU/LAB-05/test.c",
 				"/E/c programin/CSE_Assignment_BSMRSTU/LAB-04/test.c",
 				"/E/c programin/CSE_Assignment_BSMRSTU/LAB-04/q_3.c",
@@ -551,7 +623,6 @@
 				"/E/c programin/CSE_Assignment_BSMRSTU/LAB-04/q_5.c",
 				"/E/HTML/4th.html",
 				"/Z/media/ibrahim/EXE/private softeware/seen movie list.txt",
-				"/G/private softeware/seen movie list.txt",
 				"/H/private softeware/accounts/gmail/Gmail accounts.txt",
 				"/H/private softeware/seen movie list.txt",
 				"/F/c programin/structure_Student.c",
@@ -629,46 +700,11 @@
 				"/E/cls C++/1test.cpp",
 				"/E/cls C++/test.cpp",
 				"/E/cls C++/it's show time.cpp",
-				"/D/Downloads/Package Control.sublime-package",
-				"/E/c programin/new/matrix_multiplication.cpp",
-				"/E/c programin/Toph (ibrahim_065)/Byang's Additions.cpp",
-				"/E/c programin/Toph (ibrahim_065)/Clock Math.cpp",
-				"/F/CHADNI/map/Doc Title to UR Code-03062020-Update.xlsx",
-				"/D/Downloads/PreviouslyCompletedElementGroup (1).csv",
-				"/G/AppNee.com.Sublime.Text.3.Build.3176.Portable.FR.x64/Data/Packages/User/AutoSpell.sublime-settings",
-				"/G/AppNee.com.Sublime.Text.3.Build.3176.Portable.FR.x64/Data/Packages/AutoSpell/AutoSpell.sublime-settings",
-				"/D/3D Objects/CORONA.cpp",
-				"/D/3D Objects/test_CORONA.cpp",
-				"/D/3D Objects/test_dimond.cpp",
-				"/E/c programin/new/Sum of upper and lower triangles elements Matrix.cpp",
-				"/D/3D Objects/dimond.cpp",
-				"/D/3D Objects/leap.cpp",
-				"/D/3D Objects/Pigeon Hole List.cpp",
-				"/D/3D Objects/TEST.cpp",
-				"/G/AppNee.com.Sublime.Text.3.Build.3176.Portable.FR.x64/Data/Packages/AdvancedNewFile/README.md",
-				"/G/AppNee.com.Sublime.Text.3.Build.3176.Portable.FR.x64/Data/Packages/AdvancedNewFile/string.cpp",
-				"/G/AppNee.com.Sublime.Text.3.Build.3176.Portable.FR.x64/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
-				"/E/c programin/new/matrix_addition.cpp",
-				"/E/c programin/new/matrix transpose.cpp",
-				"/E/c programin/new/sum of diagonal elements metrix.cpp",
-				"/E/c programin/new/Sum of upper & lower triangles elements Matrix.cpp",
-				"/G/AppNee.com.Sublime.Text.3.Build.3176.Portable.FR.x64/Data/Packages/Package Control/Package Control.sublime-settings",
-				"/G/AppNee.com.Sublime.Text.3.Build.3176.Portable.FR.x64/Data/Packages/ColorPicker/ColorPicker.sublime-settings",
-				"/G/AppNee.com.Sublime.Text.3.Build.3176.Portable.FR.x64/Data/Packages/Terminal/Default (Windows).sublime-keymap",
-				"/G/AppNee.com.Sublime.Text.3.Build.3176.Portable.FR.x64/Data/Packages/User/ColorPicker.sublime-settings",
-				"/G/AppNee.com.Sublime.Text.3.Build.3176.Portable.FR.x64/Data/Packages/Terminality/Default (Windows).sublime-keymap",
-				"/G/AppNee.com.Sublime.Text.3.Build.3176.Portable.FR.x64/Data/Packages/User/Default (Windows).sublime-keymap",
-				"/G/Portable Sublime Text Build 3211 x64/Packages/AppleScript.sublime-package",
-				"/D/Workplace (C programe)/Decimal to Binary/Decimal to Binary.cpp",
-				"/D/Workplace (C programe)/practice.cpp",
-				"/D/Workplace (C programe)/2D Array/2D Array more2.cpp",
-				"/D/Workplace (C programe)/2D Array/2D Array more3.cpp",
-				"/D/Workplace (C programe)/2D Array/2D Array sum of row and column.cpp",
-				"/D/Workplace (C programe)/Binary to decimal/Binary to decimal.cpp"
+				"/D/Downloads/Package Control.sublime-package"
 			],
 			"find":
 			{
-				"height": 27.0
+				"height": 33.0
 			},
 			"find_in_files":
 			{
@@ -682,7 +718,7 @@
 				"case_sensitive": false,
 				"find_history":
 				[
-					"line"
+					"int"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -699,7 +735,7 @@
 			},
 			"incremental_find":
 			{
-				"height": 27.0
+				"height": 33.0
 			},
 			"input":
 			{
@@ -708,16 +744,16 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 107.0
+				"height": 43.0
 			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
-			"pinned_build_system": "Packages/C++ & C Single File Builder - Minghang Yang/C Builder-Minghang Yang.sublime-build",
+			"pinned_build_system": "Packages/C++ & C Single File Builder - Minghang Yang/C++ Builder-Minghang Yang.sublime-build",
 			"replace":
 			{
-				"height": 50.0
+				"height": 62.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -751,7 +787,7 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 266.0,
+			"side_bar_width": 161.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
@@ -767,16 +803,20 @@
 				"selected_items":
 				[
 					[
+						"re",
+						"rev_num"
+					],
+					[
+						"in",
+						"in\tCpp_program"
+					],
+					[
 						"vo",
 						"vowel_cnt"
 					],
 					[
 						"for",
 						"for\tFor Loop"
-					],
-					[
-						"in",
-						"in\tC_program"
 					],
 					[
 						"main",
@@ -1091,19 +1131,19 @@
 			"buffers":
 			[
 				{
-					"file": "/E/c programin/CSE_Assignment_BSMRSTU/LAB-05/P_1.c",
+					"file": "/E/c programin/DimikOJ/Problem_25.c",
 					"settings":
 					{
-						"buffer_size": 714,
+						"buffer_size": 300,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
 				},
 				{
-					"file": "/E/c programin/CSE_Assignment_BSMRSTU/LAB-05/P_2.c",
+					"file": "/E/c programin/DimikOJ/test.cpp",
 					"settings":
 					{
-						"buffer_size": 683,
+						"buffer_size": 552,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -1150,6 +1190,22 @@
 					[
 						"Packages/C++ & C Single File Builder - Minghang Yang/C++ Builder-Minghang Yang.sublime-build",
 						"Build and Run"
+					]
+				],
+				[
+					[
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							""
+						],
+						[
+							"Packages/C++/C++ Single File.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/C++/C++ Single File.sublime-build",
+						"Run"
 					]
 				],
 				[
@@ -1217,16 +1273,20 @@
 						"Package Control: Remove Package"
 					],
 					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"termin",
+						"Terminal: Open"
+					],
+					[
 						"intall",
 						"Package Control: Install Package"
 					],
 					[
 						"theme",
 						"UI: Select Color Scheme"
-					],
-					[
-						"install",
-						"Package Control: Install Package"
 					],
 					[
 						"scheme",
@@ -1305,10 +1365,40 @@
 			},
 			"expanded_folders":
 			[
-				"/D/Downloads/Compressed/19CSE003/19CSE003"
+				"/E/c programin/DimikOJ"
 			],
 			"file_history":
 			[
+				"/E/c programin/DimikOJ/test.cpp",
+				"/G/Seen Movie list/watched movie list.txt",
+				"/E/c programin/test.c",
+				"/E/c programin/HackerRank(ibrahim_065)/Variable_Sized_Arrays.cpp",
+				"/E/c programin/DimikOJ/Problem_16.c",
+				"/E/c programin/DimikOJ/Problem_19.c",
+				"/E/c programin/DimikOJ/Problem_21.c",
+				"/E/c programin/DimikOJ/test.c",
+				"/E/c programin/DimikOJ/Problem_23.c",
+				"/E/c programin/DimikOJ/Problem_24.c",
+				"/G/Seen Movie link/watched movie list.txt",
+				"/E/c programin/DimikOJ/vajog.cpp",
+				"/E/c programin/DimikOJ/Problem_18.c",
+				"/E/c programin/DimikOJ/Problem_17.c",
+				"/E/c programin/DimikOJ/Problem_15.c",
+				"/E/c programin/DimikOJ/Problem_14.c",
+				"/E/c programin/DimikOJ/Problem_12.c",
+				"/E/c programin/DimikOJ/Problem_11.c",
+				"/E/c programin/DimikOJ/Problem_10.c",
+				"/E/c programin/DimikOJ/Problem_9.c",
+				"/E/c programin/DimikOJ/Problem_8.c",
+				"/E/c programin/DimikOJ/Problem_7.c",
+				"/E/c programin/DimikOJ/Problem_6.c",
+				"/E/c programin/DimikOJ/Problem_3.c",
+				"/E/c programin/DimikOJ/Problem_13.cpp",
+				"/G/private softeware/seen movie list.txt",
+				"/G/Portable Sublime Text 3/Data/Packages/User/C_program.sublime-snippet",
+				"/E/c programin/Codeforces (ibrahim_065)/Boboniu_Plays_Chess_1395B.cpp",
+				"/E/c programin/CSE_Assignment_BSMRSTU/LAB-05/P_1.c",
+				"/E/c programin/CSE_Assignment_BSMRSTU/LAB-05/P_2.c",
 				"/E/c programin/CSE_Assignment_BSMRSTU/LAB-05/P_3.c",
 				"/E/c programin/CSE_Assignment_BSMRSTU/LAB-05/P_4.c",
 				"/E/c programin/CSE_Assignment_BSMRSTU/LAB-05/P_5.c",
@@ -1322,8 +1412,6 @@
 				"/D/Downloads/Compressed/19CSE003/19CSE003/3.c",
 				"/D/Downloads/Compressed/19CSE003/19CSE003/4.c",
 				"/D/Downloads/Compressed/19CSE003/19CSE003/5.c",
-				"/E/c programin/CSE_Assignment_BSMRSTU/LAB-05/P_1.c",
-				"/E/c programin/CSE_Assignment_BSMRSTU/LAB-05/P_2.c",
 				"/E/c programin/CSE_Assignment_BSMRSTU/LAB-05/test.c",
 				"/E/c programin/CSE_Assignment_BSMRSTU/LAB-04/test.c",
 				"/E/c programin/CSE_Assignment_BSMRSTU/LAB-04/q_3.c",
@@ -1333,7 +1421,6 @@
 				"/E/c programin/CSE_Assignment_BSMRSTU/LAB-04/q_5.c",
 				"/E/HTML/4th.html",
 				"/Z/media/ibrahim/EXE/private softeware/seen movie list.txt",
-				"/G/private softeware/seen movie list.txt",
 				"/H/private softeware/accounts/gmail/Gmail accounts.txt",
 				"/H/private softeware/seen movie list.txt",
 				"/F/c programin/structure_Student.c",
@@ -1409,38 +1496,11 @@
 				"/E/c programin/Toph (ibrahim_065)/prime number.cpp",
 				"/E/c programin/Toph (ibrahim_065)/Test Cases.cpp",
 				"/E/cls C++/1test.cpp",
-				"/E/cls C++/test.cpp",
-				"/E/cls C++/it's show time.cpp",
-				"/D/Downloads/Package Control.sublime-package",
-				"/E/c programin/new/matrix_multiplication.cpp",
-				"/E/c programin/Toph (ibrahim_065)/Byang's Additions.cpp",
-				"/E/c programin/Toph (ibrahim_065)/Clock Math.cpp",
-				"/F/CHADNI/map/Doc Title to UR Code-03062020-Update.xlsx",
-				"/D/Downloads/PreviouslyCompletedElementGroup (1).csv",
-				"/G/AppNee.com.Sublime.Text.3.Build.3176.Portable.FR.x64/Data/Packages/User/AutoSpell.sublime-settings",
-				"/G/AppNee.com.Sublime.Text.3.Build.3176.Portable.FR.x64/Data/Packages/AutoSpell/AutoSpell.sublime-settings",
-				"/D/3D Objects/CORONA.cpp",
-				"/D/3D Objects/test_CORONA.cpp",
-				"/D/3D Objects/test_dimond.cpp",
-				"/E/c programin/new/Sum of upper and lower triangles elements Matrix.cpp",
-				"/D/3D Objects/dimond.cpp",
-				"/D/3D Objects/leap.cpp",
-				"/D/3D Objects/Pigeon Hole List.cpp",
-				"/D/3D Objects/TEST.cpp",
-				"/G/AppNee.com.Sublime.Text.3.Build.3176.Portable.FR.x64/Data/Packages/AdvancedNewFile/README.md",
-				"/G/AppNee.com.Sublime.Text.3.Build.3176.Portable.FR.x64/Data/Packages/AdvancedNewFile/string.cpp",
-				"/G/AppNee.com.Sublime.Text.3.Build.3176.Portable.FR.x64/Data/Packages/SideBarEnhancements/Side Bar.sublime-settings",
-				"/E/c programin/new/matrix_addition.cpp",
-				"/E/c programin/new/matrix transpose.cpp",
-				"/E/c programin/new/sum of diagonal elements metrix.cpp",
-				"/E/c programin/new/Sum of upper & lower triangles elements Matrix.cpp",
-				"/G/AppNee.com.Sublime.Text.3.Build.3176.Portable.FR.x64/Data/Packages/Package Control/Package Control.sublime-settings",
-				"/G/AppNee.com.Sublime.Text.3.Build.3176.Portable.FR.x64/Data/Packages/ColorPicker/ColorPicker.sublime-settings",
-				"/G/AppNee.com.Sublime.Text.3.Build.3176.Portable.FR.x64/Data/Packages/Terminal/Default (Windows).sublime-keymap"
+				"/E/cls C++/test.cpp"
 			],
 			"find":
 			{
-				"height": 36.0
+				"height": 33.0
 			},
 			"find_in_files":
 			{
@@ -1454,6 +1514,8 @@
 				"case_sensitive": false,
 				"find_history":
 				[
+					"n",
+					"MX"
 				],
 				"highlight": true,
 				"in_selection": false,
@@ -1471,7 +1533,7 @@
 			"folders":
 			[
 				{
-					"path": "D:\\Downloads\\Compressed\\19CSE003\\19CSE003"
+					"path": "E:\\c programin\\DimikOJ"
 				}
 			],
 			"groups":
@@ -1482,25 +1544,25 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/E/c programin/CSE_Assignment_BSMRSTU/LAB-05/P_1.c",
+							"file": "/E/c programin/DimikOJ/Problem_25.c",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 714,
+								"buffer_size": 300,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										377,
-										377
+										287,
+										287
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/C Improved/C Improved.tmLanguage",
-									"translate_tabs_to_spaces": false
+									"open_with_edit": true,
+									"syntax": "Packages/C Improved/C Improved.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -1511,28 +1573,27 @@
 						},
 						{
 							"buffer": 1,
-							"file": "/E/c programin/CSE_Assignment_BSMRSTU/LAB-05/P_2.c",
+							"file": "/E/c programin/DimikOJ/test.cpp",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 683,
+								"buffer_size": 552,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										351,
-										351
+										458,
+										458
 									]
 								],
 								"settings":
 								{
-									"syntax": "Packages/C Improved/C Improved.tmLanguage",
-									"translate_tabs_to_spaces": false
+									"syntax": "Packages/C++/C++.sublime-syntax"
 								},
 								"translation.x": 0.0,
-								"translation.y": 0.0,
+								"translation.y": 441.0,
 								"zoom_level": 1.0
 							},
 							"stack_index": 0,
@@ -1543,7 +1604,7 @@
 			],
 			"incremental_find":
 			{
-				"height": 36.0
+				"height": 33.0
 			},
 			"input":
 			{
@@ -1574,18 +1635,18 @@
 			"menu_visible": true,
 			"output.exec":
 			{
-				"height": 37.0
+				"height": 162.0
 			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
-			"pinned_build_system": "Packages/C++ & C Single File Builder - Minghang Yang/C Builder-Minghang Yang.sublime-build",
-			"position": "0,2,3,-32000,-32000,-1,-1,746,261,212,1095",
+			"pinned_build_system": "Packages/C++ & C Single File Builder - Minghang Yang/C++ Builder-Minghang Yang.sublime-build",
+			"position": "0,2,3,-1,-1,-1,-1,664,130,130,964",
 			"project": "",
 			"replace":
 			{
-				"height": 68.0
+				"height": 62.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1623,12 +1684,12 @@
 			"show_open_files": true,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 266.0,
+			"side_bar_width": 161.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			},
-			"window_id": 67,
+			"window_id": 73,
 			"workspace_name": ""
 		}
 	],

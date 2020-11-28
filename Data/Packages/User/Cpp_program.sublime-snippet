@@ -1,24 +1,59 @@
 <snippet>
 	<content><![CDATA[
-/*
- ██▓ ▄▄▄▄    ██▀███   ▄▄▄       ██░ ██  ██▓ ███▄ ▄███▓
-▓██▒▓█████▄ ▓██ ▒ ██▒▒████▄    ▓██░ ██▒▓██▒▓██▒▀█▀ ██▒
-▒██▒▒██▒ ▄██▓██ ░▄█ ▒▒██  ▀█▄  ▒██▀▀██░▒██▒▓██    ▓██░
-░██░▒██░█▀  ▒██▀▀█▄  ░██▄▄▄▄██ ░▓█ ░██ ░██░▒██    ▒██ 
-░██░░▓█  ▀█▓░██▓ ▒██▒ ▓█   ▓██▒░▓█▒░██▓░██░▒██▒   ░██▒
-░▓  ░▒▓███▀▒░ ▒▓ ░▒▓░ ▒▒   ▓▒█░ ▒ ░░▒░▒░▓  ░ ▒░   ░  ░
- ▒ ░▒░▒   ░   ░▒ ░ ▒░  ▒   ▒▒ ░ ▒ ░▒░ ░ ▒ ░░  ░      ░
- ▒ ░ ░    ░   ░░   ░   ░   ▒    ░  ░░ ░ ▒ ░░      ░   
- ░   ░         ░           ░  ░ ░  ░  ░ ░         ░   
-          ░                                           
-*/
-#include<bits/stdc++.h>
+//#include<bits/stdc++.h>
+#include <iostream>
+#include <algorithm>
+#include <cstdio>
+#include <cstdlib>
+#include <cstring>
+#include <string>
+#include <cmath>
+#include <vector>
+#include <set>
+#include <map>
+#include <unordered_set>
+#include <unordered_map>
+#include <stack>
+#include <queue>
+#include <deque>
+#include <iterator>
+#include <bitset>
+#include <assert.h>
+#include <new>
+#include <sstream>
+#include <time.h>
+#include <functional>
+#include <numeric>
+#include <utility>
+#include <limits>
+#define READ()		freopen("input", "r", stdin)
+#define WRITE()		freopen("output", "w", stdout)
+#define TIME()		fprintf(stderr,"Runtime: %.10fs\n", (double)(clock() - tStart) / CLOCKS_PER_SEC)
+#define CLOCK()		clock_t tStart = clock()
 using namespace std;
-typedef long long int ll;
+using ll = long long int;
+
+ll funFactorial(ll n) {if (n == 0) return 1;return n * funFactorial(n - 1);}
+
 int main()
 {
- 	$1   
-    return 0;
+	#ifndef ONLINE_JUDGE
+		CLOCK();
+		//READ();
+		//WRITE();
+	#endif
+//---------------------------code_start_from_here-------------------------
+
+
+	$1
+
+
+//---------------------------code finished--------------------------------
+
+	#ifndef ONLINE_JUDGE
+		TIME();
+	#endif
+	return 0;
 }
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
