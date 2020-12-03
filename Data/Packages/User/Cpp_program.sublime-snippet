@@ -33,15 +33,24 @@
 using namespace std;
 using ll = long long int;
 
+
+
+// ll funFactorial(ll n) {if (n == 0) return 1;return n * funFactorial(n - 1);}
+
+//--------------------GCD_Start---------------
+/*
 int GCD(int n1, int n2)
 {
 	if(n2)
 		return GCD(n2, n1%n2);
 	return n1;
 }
+*/
+//--------------------GCD_End-----------------
 
-ll funFactorial(ll n) {if (n == 0) return 1;return n * funFactorial(n - 1);}
 
+// --------------Seive_Prime_Start------------
+/*
 bool prime[100000000];
 ll isPrime(ll n)
 {
@@ -57,6 +66,10 @@ void seive(ll n)
 				prime[j] = false;
 		}
 }
+*/
+// --------------Seive_Prime_Start------------
+
+
 
 int main()
 {
@@ -68,7 +81,9 @@ int main()
 //---------------------------code_start_from_here-------------------------
 
 
+
 	$1
+
 
 
 //---------------------------code_finished--------------------------------
